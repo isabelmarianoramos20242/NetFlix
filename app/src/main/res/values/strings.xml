@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">NetFlix</string>
     <string name="s_rie">Série</string>
+    <string name="drama">Drama</string>
+    <string name="sociedade">Sociedade</string>
+    <string name="assistir">Assistir</string>
+    <string name="romance">Romance</string>
+    <string name="minha_lista">Minha Lista</string>
+    <string name="filmes">Filmes</string>
+    <string name="lan_amento">Lançamento</string>
+    <string name="detalhes">DETALHES</string>
 </resources>
