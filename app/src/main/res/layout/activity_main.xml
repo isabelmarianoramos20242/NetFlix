@@ -166,7 +166,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="273dp"
-        android:drawableStart="@drawable/icplay"
+        android:drawableLeft="@drawable/icplay"
         android:text="@string/assistir"
         app:layout_constraintEnd_toStartOf="@+id/btDetalhes"
         app:layout_constraintHorizontal_bias="0.5"
